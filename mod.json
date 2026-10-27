@@ -1,6 +1,6 @@
 {
 	"name" : "Nevermore-town",
-	"description" : "The new city of Nevermore",
+	"description" : "The city of Nevermore",
 	"author" : "Vovan1698",
 	"contact" : "discord: Vovan1698",
 	"version" : "1.1.1",
@@ -21,6 +21,13 @@
 		],
 		"1.0.0" : [
 			"Initial release"
+		]
+	},
+	"french" : {
+		"name" : "Jamais Plus",
+		"description" : "La ville « Jamais Plus », créée à partir des travaux de la hota-crew.",
+		"translations" : [
+			"translation/nevermore/french.json"
 		]
 	},
 	"russian" : {
