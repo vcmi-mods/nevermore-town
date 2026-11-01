@@ -37,6 +37,13 @@
 			"translation/nevermore/russian.json"
 		]
 	},
+	"polish" : {
+		"name" : "Rubież",
+		"description" : "Nowe miasto Rubież, stworzone na podstawie pracy hota-crew.",
+		"translations" : [
+			"translation/nevermore/polish.json"
+		]
+	},
 	"factions" : [
 		"config/nevermore/town/faction.json",
 		"config/nevermore/town/buildings.json",
